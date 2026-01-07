@@ -10,6 +10,7 @@ export const metadata = {
     title: "GoCart. - Shop smarter",
     description: "GoCart. - Shop smarter",
 };
+//new
 
 export default function RootLayout({ children }) {
     return (
